@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihemrekayaa&label=Profile%20views&color=0e75b6&style=flat" alt="melihemrekayaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melihemrekayaa" alt="melihemrekayaa" /></a> </p>
+
 
 - 👨‍💻 I'm student at **Bandırma Onyedi Eylül University**
 
