@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melih Emre</h1>
 <h3 align="center">A passionate Kotlin developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihemrekayaa&label=Profile%20views&color=0e75b6&style=flat" alt="melihemrekayaa" /> </p>
-
-
-
 - 👨‍💻 I'm student at **Bandırma Onyedi Eylül University**
 
 - 🌱 I’m currently learning **Kotlin**
